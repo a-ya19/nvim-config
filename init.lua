@@ -1,0 +1,2 @@
+require("avy2")
+
